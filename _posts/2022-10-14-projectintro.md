@@ -1,3 +1,8 @@
+---
+date: 2022-10-14
+title: project intro
+---
+
 There is this app called [VRC](https://vrc.rosscarlson.dev) which stands for Virtual Radar Client. 
 It is primarily used on the [VATSIM](https://vatsim.net)  network to see the virtual pilots. The developer allows users to add custom servers
 using a file called "myservers.txt". It is supposed to be used to allow people to add the training servers (aka Sweatbox) but can be used for 
